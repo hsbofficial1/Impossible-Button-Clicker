@@ -1,7 +1,7 @@
 # Impossible Button Clicker
 
 LINK TO THE PROJECT :
-https://impossible-button-clicker-gzevvyhwf-hsbofficial1s-projects.vercel.app
+https://impossible-button-clicker.vercel.app/
 
 ## Description
 This is a humorous and frustrating web-based game where the goal is to click a button. However, the button will move away from the user's cursor whenever they try to click it, making it extremely difficult and likely to make users aggressive while playing. The game features a timer, score tracking, moving obstacles, sound effects, random pop-ups with images, colorful backgrounds, fake error messages, random screen shakes, and a leaderboard.
@@ -46,4 +46,4 @@ This is a humorous and frustrating web-based game where the goal is to click a b
 This project is licensed under the MIT License.
 
 LINK TO THE PROJECT :
-https://impossible-button-clicker-gzevvyhwf-hsbofficial1s-projects.vercel.app
+https://impossible-button-clicker.vercel.app/
